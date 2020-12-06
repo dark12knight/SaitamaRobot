@@ -1,5 +1,5 @@
 {
-      "name": "SaitamaRobot",
+      "name": "Black shark",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "Saitama"
       ],   
-   "repository": "https://github.com/AnimeKaizoku/SaitamaRobot",
+   "repository": "https://github.com/dark12knight/SaitamaRobot",
    "addons": [
       {
          "options": {
